@@ -6,3 +6,6 @@ waldo_project/env
 *.jpg
 *.jpeg
 *.png
+waldo_project/find-wally-master/weights.h5
+waldo_project/find-wally-master/LICENSE
+waldo_project/find-wally-master/README.md
