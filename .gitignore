@@ -3,3 +3,6 @@ waldo_project/.idea/workspace.xml
 waldo_project/env
 *.ipynb_checkpoints
 .ipynb_checkpoints
+*.jpg
+*.jpeg
+*.png
